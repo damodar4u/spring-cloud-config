@@ -1,7 +1,7 @@
 
 include::intro.adoc[]
 
-== Features
+== Features 1
 
 === Spring Cloud Config Server
 
